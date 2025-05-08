@@ -1,0 +1,13 @@
+
+# GerenciadorTarefas
+pywin32
+
+# MongoDriver
+pymongo
+
+# NotificadorWindows
+winotify
+
+# SeleniumDriver
+selenium
+webdriver-manager
